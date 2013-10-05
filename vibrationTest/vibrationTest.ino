@@ -5,7 +5,7 @@ int LEDpin= 8;
 
 //defines normal and threshold voltage levels
 int normalReading= 0;
-int threshold= 150;
+int threshold= 40;
 
 //sets GroundPin and LEDPin as output pins, with GroundPin being set to LOW
 void setup()
